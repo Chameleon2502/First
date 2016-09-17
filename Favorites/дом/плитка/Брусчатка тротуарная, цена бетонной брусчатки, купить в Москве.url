@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.strd.ru/bruschatka.shtml
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.strd.ru/bruschatka.shtml
+IDList=
+IconFile=http://www.strd.ru/favicon.ico?1257831761
+IconIndex=1

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://hh.ru/applicant/resumes
+[DOC_target-banner-mailru]
+BASEURL=http://ad.mail.ru/adi/3318?l=0&a=40&g=1&dw=0&de=8&do=21&_SITEZONE=1&user_id=11618436&r=1351834012&site=hh.ru
+ORIGURL=http://ad.mail.ru/adi/3318?l=0&a=40&g=1&dw=0&de=8&do=21&_SITEZONE=1&user_id=11618436&r=1351834012&site=hh.ru
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://hh.ru/applicant/resumes
+IDList=
+IconFile=https://i.hh.ru/favicons/hh.ico?v=2015_03_17
+IconIndex=1

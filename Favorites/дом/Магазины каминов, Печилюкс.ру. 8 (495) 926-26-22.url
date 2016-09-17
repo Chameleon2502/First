@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.pechilux.ru/
+[DOC_jivo_container]
+BASEURL=http://www.pechilux.ru/
+ORIGURL=javascript:false
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+IDList=
+URL=http://www.pechilux.ru/
+IconFile=http://www.pechilux.ru/favicon.ico
+IconIndex=1

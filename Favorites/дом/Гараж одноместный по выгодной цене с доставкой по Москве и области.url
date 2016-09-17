@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://modul-park.ru/modulnye-zdanija/teplij-garazh-dvuhmestnij-/
+[DOC_jivo_container]
+BASEURL=http://modul-park.ru/modulnye-zdanija/teplij-garazh-dvuhmestnij-/
+ORIGURL=javascript:false
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+IDList=
+URL=http://modul-park.ru/modulnye-zdanija/teplij-garazh-dvuhmestnij-/
+IconFile=http://modul-park.ru/image/data/category/icon-2.png
+IconIndex=1

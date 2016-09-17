@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://marrietta.ru/post158292251/
+[DOC#119]
+BASEURL=http://www.liveinternet.ru/cookie/check-li.html?marrietta.ru
+ORIGURL=/cookie/check.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://marrietta.ru/post158292251/
+IDList=
+IconFile=http://marrietta.ru/favicon.lira.ico
+IconIndex=1

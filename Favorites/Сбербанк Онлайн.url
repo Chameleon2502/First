@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://online.sberbank.ru/CSAFront/index.do
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://online.sberbank.ru/CSAFront/index.do
+IconFile=https://stat.online.sberbank.ru/CSAFront-res/22.1/skins/sbrf/images/favicon.ico
+IconIndex=1

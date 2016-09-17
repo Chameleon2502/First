@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.genon.ru/GetAnswer.aspx?qid=b2b99c4a-c920-43b2-bec7-5870a8c69934
+[DOC_k_c0]
+BASEURL=http://www.genon.ru/GetAnswer.aspx?qid=b2b99c4a-c920-43b2-bec7-5870a8c69934
+ORIGURL=
+[DOC_k_c1]
+BASEURL=http://www.genon.ru/GetAnswer.aspx?qid=b2b99c4a-c920-43b2-bec7-5870a8c69934
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.genon.ru/GetAnswer.aspx?qid=b2b99c4a-c920-43b2-bec7-5870a8c69934
+IDList=
+IconFile=http://www.genon.ru/favicon.ico
+IconIndex=1
