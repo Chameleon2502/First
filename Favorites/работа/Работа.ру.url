@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.rabota.ru/?area=v3_resumeList
+[DOC_METABAR_IFRAME]
+BASEURL=http://www.rabota.ru/?area=v3_resumeList
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.rabota.ru/?area=v3_resumeList
+IDList=
+IconFile=http://www.rabota.ru/favicon.ico
+IconIndex=1

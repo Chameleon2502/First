@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.pech.ru/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+IDList=
+URL=http://www.pech.ru/
+IconFile=http://www.pech.ru/icons/android-icon-192x192.png
+IconIndex=1

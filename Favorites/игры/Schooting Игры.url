@@ -1,0 +1,16 @@
+[DEFAULT]
+BASEURL=http://sport.igri.by/shooting-games.html
+[DOC#20_google_ads_iframe_RU_Igri.by_160x600]
+BASEURL=http://www.igri.by/banner_160x600.php
+ORIGURL=about:blank
+[DOC_theGame#17_google_ads_iframe_RU_Igri.by_300x250pre]
+BASEURL=http://www.igri.by/banner_336x280_loader.php
+ORIGURL=javascript:window["contents"]
+[DOC#280_google_ads_iframe_RU_Igri.by_728x90game]
+BASEURL=http://www.igri.by/full_bnr_gms.php
+ORIGURL=about:blank
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://sport.igri.by/shooting-games.html
+IDList=

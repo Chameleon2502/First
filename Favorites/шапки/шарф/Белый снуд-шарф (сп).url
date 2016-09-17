@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://idi-k-nam.ru/post203555266/
+[DOC#110]
+BASEURL=http://www.liveinternet.ru/cookie/check-li.html?idi-k-nam.ru
+ORIGURL=/cookie/check.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://idi-k-nam.ru/post203555266/
+IDList=
+IconFile=http://idi-k-nam.ru/favicon.lira.ico
+IconIndex=1

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://efachka.ru/post184097220
+[DOC#108]
+BASEURL=http://www.liveinternet.ru/cookie/check-li.html?efachka.ru
+ORIGURL=/cookie/check.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://efachka.ru/post184097220
+IDList=
+IconFile=http://efachka.ru/favicon.lira.ico
+IconIndex=1

@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.post.ru/Session/94586-2SNSsvwZUf1fnGMiEI4G-eqdskqx/frameset.wssp?
+[DOC#8_Mailboxes]
+BASEURL=http://www.post.ru/Session/94586-2SNSsvwZUf1fnGMiEI4G-eqdskqx/mailboxes.wssp
+ORIGURL=mailboxes.wssp
+[DOC#8#10#5#7]
+BASEURL=http://www.post.ru/Session/94586-2SNSsvwZUf1fnGMiEI4G-eqdskqx/mailbox.wssp?Mailbox=INBOX&mailboxClass=&
+ORIGURL=hello.wssp
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.post.ru/Session/94586-2SNSsvwZUf1fnGMiEI4G-eqdskqx/frameset.wssp?
+IDList=
+IconFile=http://www.post.ru/favicon.ico
+IconIndex=1

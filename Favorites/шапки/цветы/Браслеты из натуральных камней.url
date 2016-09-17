@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://samotsvet.ru/catalog/braslety/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://samotsvet.ru/catalog/braslety/#catfilter=Y&COUNT=90&SORT=min_price&PAGEN_1=10
+IDList=
+IconFile=http://samotsvet.ru/bitrix/templates/main_page/favicon.ico
+IconIndex=1

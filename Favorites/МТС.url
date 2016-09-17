@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://login.mts.ru/amserver/UI/Login?service=ihelper-msk&goto=https%3A%2F%2Fihelper.mts.ru%3A443%2FSELFCARE%2Ferror_ru.html
+[DOC#96]
+BASEURL=https://oauth.mts.ru/social-2.0/buttons.jsp?goto=https%3A%2F%2Fihelper.mts.ru%3A443%2FSELFCARE%2Ferror_ru.html
+ORIGURL=https://oauth.mts.ru:443/social-2.0/buttons.jsp?goto=https%3A%2F%2Fihelper.mts.ru%3A443%2FSELFCARE%2Ferror_ru.html
+[DOC#96_fb_xdm_frame_https]
+BASEURL=https://staticxx.facebook.com/connect/xd_arbiter/r/LJ9CfGDsgQ7.js?version=42
+ORIGURL=https://staticxx.facebook.com/connect/xd_arbiter/r/LJ9CfGDsgQ7.js?version=42#channel=f248d4e654d5c7c&origin=https%3A%2F%2Foauth.mts.ru
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://login.mts.ru/amserver/UI/Login?service=ihelper-msk&goto=https%3A%2F%2Fihelper.mts.ru%3A443%2FSELFCARE%2Ferror_ru.html
+IconFile=https://login.mts.ru/amserver/favicon.ico
+IconIndex=1

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.avito.ru/profile
+[DOC_google_ads_iframe_/7870/1.Avito.ru/LichniyKabinet_0__hidden__]
+BASEURL=https://www.avito.ru/profile
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.avito.ru/profile
+IconFile=https://www.avito.st/favicon.ico?4dedf6e
+IconIndex=1

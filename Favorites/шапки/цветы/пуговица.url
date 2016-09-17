@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://mizrah.ru/post186619706/
+[DOC#110]
+BASEURL=http://www.liveinternet.ru/cookie/check-li.html?mizrah.ru
+ORIGURL=/cookie/check.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://mizrah.ru/post186619706/
+IDList=
+IconFile=http://mizrah.ru/favicon.lira.ico
+IconIndex=1

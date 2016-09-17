@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://1mangal.ru/katalog/bigmangals/?order_filter_placeholder=1&order_filter_name=0&catalog_layout=0&catalog_per_page=96
+[DOC_fb_xdm_frame_http]
+BASEURL=http://static.ak.facebook.com/connect/xd_arbiter/7r8gQb8MIqE.js?version=41
+ORIGURL=http://static.ak.facebook.com/connect/xd_arbiter/7r8gQb8MIqE.js?version=41#channel=f3e82dfccc9b61&origin=http%3A%2F%2F1mangal.ru
+[DOC_fb_xdm_frame_https]
+BASEURL=https://s-static.ak.facebook.com/connect/xd_arbiter/7r8gQb8MIqE.js?version=41
+ORIGURL=https://s-static.ak.facebook.com/connect/xd_arbiter/7r8gQb8MIqE.js?version=41#channel=f3e82dfccc9b61&origin=http%3A%2F%2F1mangal.ru
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://1mangal.ru/katalog/bigmangals/?order_filter_placeholder=1&order_filter_name=0&catalog_layout=0&catalog_per_page=96
+IDList=
+IconFile=http://1mangal.ru/favicon.ico
+IconIndex=1

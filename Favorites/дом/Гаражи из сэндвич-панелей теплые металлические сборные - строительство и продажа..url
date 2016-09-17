@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.module-house.ru/production/good-parking/box_414.html
+[DOC_jivo_container]
+BASEURL=http://www.module-house.ru/production/good-parking/box_414.html
+ORIGURL=javascript:false
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+IDList=
+URL=http://www.module-house.ru/production/good-parking/box_414.html
+IconFile=http://www.module-house.ru/favicon.ico
+IconIndex=1

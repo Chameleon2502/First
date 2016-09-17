@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://torg-les.ruprom.net/contacts
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://torg-les.ruprom.net/contacts
+IDList=
+IconFile=http://images.ru.prom.st/8071450_favicon7.ico
+IconIndex=1

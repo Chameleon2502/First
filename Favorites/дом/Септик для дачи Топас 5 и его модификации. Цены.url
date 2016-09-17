@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.eco-center.ru/topas-5.php
+[DOC_easyXDM_default7386_provider]
+BASEURL=https://9b3050bbd0e62bd538818a885eeadf8c.me-talk.ru/support/lang/ru/support.html?type=dialog&xdm_e=http%3A%2F%2Fwww.eco-center.ru&xdm_c=default7386&xdm_p=1
+ORIGURL=https://9b3050bbd0e62bd538818a885eeadf8c.me-talk.ru/support/lang/ru/support.html?type=dialog&xdm_e=http%3A%2F%2Fwww.eco-center.ru&xdm_c=default7386&xdm_p=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+IDList=
+URL=http://www.eco-center.ru/topas-5.php
+IconFile=http://www.eco-center.ru/favicon.ico
+IconIndex=1

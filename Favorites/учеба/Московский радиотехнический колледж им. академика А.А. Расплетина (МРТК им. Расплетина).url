@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.edu-inform.ru/college/mosrtc/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+IDList=
+URL=http://www.edu-inform.ru/college/mosrtc/
+IconFile=http://www.edu-inform.ru/_v2016/images/fav.png
+IconIndex=1
